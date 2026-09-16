@@ -10,16 +10,9 @@ The project also includes a hypothetical post-phishing scenario showing how soci
 
 ---
 
-## 🎯 Project Objectives
-Create and test a simulated phishing campaign
-Configure an email sending profile in GoPhish
-Create a phishing email template
-Build a landing page for the simulation
-Create a test user and target group
-Launch and monitor a phishing campaign
-Review campaign results through the GoPhish dashboard
-Understand how phishing and social engineering can lead to credential compromise
-Document the setup, testing process, and results
+## 🎯 Project Goal
+
+The goal of this project was to understand how phishing and social engineering attacks work by creating a simulated phishing campaign using GoPhish in a controlled environment. I configured a test email account, created a phishing email template and landing page, launched the campaign against a dummy user, and monitored the results through the GoPhish dashboard. The project helped demonstrate how phishing emails can be used to influence users and potentially lead to credential theft or unauthorized account access.
 
 ---
 
@@ -57,14 +50,6 @@ Using a dummy account allowed me to test the campaign in a controlled environmen
 
 ---
 
-## 🚀 Campaign Creation
-
-After configuring the email template, landing page, sending profile, and test user group, I created and launched a new GoPhish campaign.
-
-The campaign connected the different components of the simulation and sent the phishing email to the dummy test account.
-
----
-
 ## 📊 Campaign Monitoring
 
 After launching the campaign, I reviewed the results through the GoPhish dashboard.
@@ -87,21 +72,6 @@ The screenshot on page 6 of the project shows that the campaign successfully sen
 I also created a hypothetical scenario explaining what could happen after a successful phishing attempt.
 
 The scenario demonstrates how an attacker could identify a target, send a fraudulent email, convince the target to interact with it, obtain sensitive information, and potentially use compromised credentials to access an account.
-
----
-
-## 🧰 Skills Demonstrated
-Social Engineering
-Phishing Simulation
-GoPhish
-Email Security
-SMTP Configuration
-Security Awareness
-Phishing Campaign Setup
-Landing Page Configuration
-Campaign Monitoring
-Credential Security
-Cybersecurity Documentation
 
 ---
 
