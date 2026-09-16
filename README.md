@@ -1,6 +1,6 @@
 # Cybersecurity-Social-Engineering-Testing-Project
 
-📌 Overview
+## 📌 Overview
 
 This cybersecurity project demonstrates how a simulated phishing campaign can be created and tested using GoPhish, an open-source phishing toolkit.
 
@@ -10,7 +10,7 @@ The project also includes a hypothetical post-phishing scenario showing how soci
 
 ---
 
-🎯 Project Objectives
+## 🎯 Project Objectives
 Create and test a simulated phishing campaign
 Configure an email sending profile in GoPhish
 Create a phishing email template
