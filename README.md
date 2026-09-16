@@ -8,7 +8,7 @@ I created a dummy Outlook account, configured a sending profile, created a phish
 
 The project also includes a hypothetical post-phishing scenario showing how social engineering could potentially lead to stolen credentials and unauthorized account access.
 
---
+---
 
 ## 🎯 Project Objectives
 Create and test a simulated phishing campaign
