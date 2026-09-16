@@ -23,7 +23,7 @@ Document the setup, testing process, and results
 
 ---
 
-🔎 Campaign Setup
+## 🔎 Campaign Setup
 
 I started by creating a dummy Outlook account for the phishing simulation.
 
@@ -33,7 +33,7 @@ After configuring the sending profile, I sent a test email to the dummy Outlook 
 
 ---
 
-📧 Phishing Email Template
+## 📧 Phishing Email Template
 
 I created a custom email template in GoPhish to simulate a phishing message.
 
@@ -41,7 +41,7 @@ The message used a fake financial reward to demonstrate how phishing emails may 
 
 ---
 
-🌐 Landing Page
+## 🌐 Landing Page
 
 I created a landing page in GoPhish for the simulated campaign.
 
@@ -49,7 +49,7 @@ The landing page represented the webpage that a targeted user could be directed 
 
 ---
 
-👤 Test User & Group
+## 👤 Test User & Group
 
 I created a test user group within GoPhish and added my dummy email account as the target.
 
@@ -57,7 +57,7 @@ Using a dummy account allowed me to test the campaign in a controlled environmen
 
 ---
 
-🚀 Campaign Creation
+## 🚀 Campaign Creation
 
 After configuring the email template, landing page, sending profile, and test user group, I created and launched a new GoPhish campaign.
 
@@ -65,7 +65,7 @@ The campaign connected the different components of the simulation and sent the p
 
 ---
 
-📊 Campaign Monitoring
+## 📊 Campaign Monitoring
 
 After launching the campaign, I reviewed the results through the GoPhish dashboard.
 
@@ -82,7 +82,7 @@ The screenshot on page 6 of the project shows that the campaign successfully sen
 
 ---
 
-🔐 Post-Phishing Scenario
+## 🔐 Post-Phishing Scenario
 
 I also created a hypothetical scenario explaining what could happen after a successful phishing attempt.
 
@@ -90,7 +90,7 @@ The scenario demonstrates how an attacker could identify a target, send a fraudu
 
 ---
 
-🧰 Skills Demonstrated
+## 🧰 Skills Demonstrated
 Social Engineering
 Phishing Simulation
 GoPhish
@@ -105,7 +105,7 @@ Cybersecurity Documentation
 
 ---
 
-🛠️ Tools Used
+## 🛠️ Tools Used
 
 GoPhish — Created, configured, launched, and monitored the simulated phishing campaign.
 
@@ -115,13 +115,13 @@ SMTP — Used to configure email delivery for the GoPhish sending profile.
 
 ---
 
-📂 Project Documentation
+## 📂 Project Documentation
 
 The project documentation includes screenshots and explanations of the complete simulation, including the GoPhish sending profile, test email configuration, phishing email template, landing page, user group, campaign creation, campaign results, and hypothetical post-phishing scenario.
 
 ---
 
-⚠️ Disclaimer
+## ⚠️ Disclaimer
 
 This project was completed for cybersecurity education and training purposes in a controlled testing environment using a dummy account.
 
